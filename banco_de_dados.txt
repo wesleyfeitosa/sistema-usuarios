@@ -1,7 +1,9 @@
 
 
 1:Romario:romario@gmail.com
-2:Joao:joao@gmail.com
 3:Gabriel:gabriel@gmail.com
 4:Carlos:carlos@gmail.com
 # Banco de Dados de usuario
+5:Maria:maria@gmail.com
+7:Fabio:fabio@gmail.com
+8:mateus:mateus@gmail.com
